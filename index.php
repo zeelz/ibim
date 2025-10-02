@@ -93,7 +93,7 @@
 									<div class="text-inner">
 										<div class="desc">
 											<h2>Writer, Journalist, Administrator</h2>
-											<p><a href="work.html" class="btn-view">More About Ibim <i class="icon-arrow-right3"></i></a></p>
+											<p><a href="about.php" class="btn-view">More About Ibim <i class="icon-arrow-right3"></i></a></p>
 										</div>
 									</div>
 								</div>
